@@ -1,0 +1,32 @@
+
+"""
+texto = "Hola mundo"
+
+texto.upper() #Todo en mayúscula
+print(texto)
+texto.lower() #Todo en minúsculas
+print(texto)
+texto.capitalize() #Primera letra mayúscula
+print(texto)
+texto.title() #Cada palabra empieza con mayúscula
+print(texto)
+texto.swapcase() #Invierte may x min
+print(texto)
+texto.startswith("Ho") #True or false
+print(texto)
+texto.endswith("do") #True or false
+print(texto)
+texto.find("Mun") #Posición donde aparece
+print(texto)
+
+texto.replace("Mundo", "Python") # Hola Python
+print(texto)
+texto.strip() #saca los espacios al inicio y al final
+print(texto)
+texto.lstrip() #quita espacios a la izq
+print(texto)
+texto.rstrip() #quita espacios a la der
+print(texto)
+texto.split() # Separar por espacio
+print(texto)
+"""
